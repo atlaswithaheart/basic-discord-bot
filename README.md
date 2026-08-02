@@ -1,8 +1,8 @@
 # Discord Bot
 
-A simple Discord bot built with Python using `discord.py`.
+A basic discord bot made using `discord.py`.
 
-This is my first Discord bot project. It includes basic commands and demonstrates how to create a bot, handle commands, and safely store secrets using environment variables.
+Starting later in December of 2026, you will be able to request bots from me on Fiverr. In the meantime, I will be making more bots on GitHub as a recreational activity.
 
 ![Bot Commands Screenshot](commands.png)
 
