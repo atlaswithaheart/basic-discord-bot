@@ -4,6 +4,12 @@ A basic discord bot made using `discord.py`.
 
 Starting later in December of 2026, you will be able to request bots from me on Fiverr. In the meantime, I will be making more bots on GitHub as a recreational activity.
 
+Future features:
+kicks
+bans
+warnings
+welcome messages
+
 ![Bot Commands Screenshot](commands.png)
 
 ## Features
