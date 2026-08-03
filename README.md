@@ -27,7 +27,7 @@ Whether you are creating a community bot, moderation system, automation tool, or
 
 This template is built with customization in mind and can be extended with additional features.
 
-Planned features include:
+Future ideas for this template include:
 
 ## 🛡️ Moderation
 
