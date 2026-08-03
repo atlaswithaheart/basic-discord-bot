@@ -47,7 +47,7 @@ Future ideas for this template include:
 
 ---
 
-## 📸 Preview
+## 📸 Screenshot(s):
 
 Example of the bot running inside Discord:
 
