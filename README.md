@@ -50,7 +50,7 @@ Example of the bot running inside Discord:
 ![Bot Commands Screenshot](commands.png)
 ![Kick Command Screenshot 1](kick_fail.png)
 ![Kick Command Screenshot 2](kick_success.png)
-Some images of the kick command in use were not included.
+Some images of the kick command were not included.
 
 ---
 
