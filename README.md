@@ -29,17 +29,13 @@ This template is built with customization in mind and can be extended with addit
 
 Future ideas for this template include:
 
-## 🛡️ Moderation
 
-* Kick commands
+* Kick commands (✅complete)
 * Ban commands
 * Warning system
 * Welcome messages
 * Server management tools
 * Slash command support
-
-## 🎮 Community & Fun Commands
-
 * 8ball command
 * Coin flip command
 * Interactive community features
@@ -52,6 +48,9 @@ Future ideas for this template include:
 Example of the bot running inside Discord:
 
 ![Bot Commands Screenshot](commands.png)
+![Kick Command Screenshot 1](kick_success.png)
+![Kick Command Screenshot 2](kick_fail.png)
+Some images of the kick command in use were not included.
 
 ---
 
