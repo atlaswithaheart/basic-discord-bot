@@ -16,7 +16,7 @@ Whether you are creating a community bot, moderation system, automation tool, or
 | -------- | -------------------------------- |
 | `!ping`  | Displays the bot's response time |
 | `!hello` | Greets a user and mentions them  |
-
+| `!kick`  | Kicks a user with a reason       |
 ### Secure Configuration
 
 * Bot token stored safely using `.env` files
