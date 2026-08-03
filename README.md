@@ -8,27 +8,26 @@ Whether you are creating a community bot, moderation system, automation tool, or
 
 ---
 
-## ✨ Features
+## Features
 
-### ⚡ Utility Commands
+### Utility Commands
 
 | Command  | Description                      |
 | -------- | -------------------------------- |
 | `!ping`  | Displays the bot's response time |
 | `!hello` | Greets a user and mentions them  |
 
-### 🔒 Secure Configuration
+### Secure Configuration
 
 * Bot token stored safely using `.env` files
 * Sensitive information excluded with `.gitignore`
 * No credentials stored directly in the source code
 
-### 🧩 Expandable Design
+### Expandable Design
 
 This template is built with customization in mind and can be extended with additional features.
 
 Future ideas for this template include:
-
 
 * Kick commands (✅complete)
 * Ban commands
@@ -43,18 +42,19 @@ Future ideas for this template include:
 
 ---
 
-## 📸 Screenshot(s):
+## Screenshot(s)
 
 Example of the bot running inside Discord:
 
 ![Bot Commands Screenshot](commands.png)
 ![Kick Command Screenshot 1](kick_fail.png)
 ![Kick Command Screenshot 2](kick_success.png)
+
 Some images of the kick command were not included.
 
 ---
 
-# 🚀 Installation
+# Installation
 
 ## 1. Clone the repository
 
@@ -87,7 +87,7 @@ with your Discord bot token.
 
 ---
 
-# ▶️ Running the Bot
+# Running the Bot
 
 Start the bot with:
 
@@ -99,9 +99,9 @@ If everything is configured correctly, the bot will connect and appear online in
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
-```
+```text
 discord-bot-template/
 │
 ├── bot.py
@@ -113,7 +113,7 @@ discord-bot-template/
 
 ---
 
-# 🛠️ Built With
+# Built With
 
 * Python
 * discord.py
@@ -121,7 +121,7 @@ discord-bot-template/
 
 ---
 
-# 🔐 Security
+# Security
 
 This template follows secure development practices.
 
@@ -129,7 +129,7 @@ The Discord token is stored in a local `.env` file and prevented from being uplo
 
 Example:
 
-```
+```text
 .env
 ```
 
@@ -137,7 +137,7 @@ Never share your Discord bot token publicly.
 
 ---
 
-# 📌 About This Template
+# About This Template
 
 This project serves as a foundation for creating custom Discord bots for communities, gaming servers, businesses, and online groups.
 
@@ -145,6 +145,6 @@ The template can be expanded with moderation systems, automated workflows, custo
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
